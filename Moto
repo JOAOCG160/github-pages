@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviço de Motoboy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>
+            Joaoxpress
+            <img src="motoboy.png" alt="Motoboy" style="width: 50px; height: auto; vertical-align: middle;">
+        </h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="#vantagens">Vantagens</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Oferecemos entregas rápidas e seguras para empresas e particulares. Nosso serviço é ágil e confiável.</p>
+    </section>
+
+    <section id="servicos">
+        <h2>Nossos Serviços</h2>
+        <ul>
+            <li>Entregas expressas</li>
+            <li>Coleta e entrega de documentos</li>
+            <li>Serviços agendados</li>
+            <li>Cobertura ampla de áreas no Distrito Federal</li>
+        </ul>
+    </section>
+
+    <section id="vantagens">
+        <h2>Vantagens</h2>
+        <ul>
+            <li>Rápido e pontual</li>
+            <li>Rastreamento em tempo real</li>
+            <li>Atendimento 24H</li>
+            <li>Preços acessíveis</li>
+        </ul>
+    </section>
+
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>Fale conosco pelo WhatsApp ou telefone:</p>
+        <p><a href="https://wa.me/5561999864481" target="_blank">📲 WhatsApp: (61) 99986-4481</a></p>
+        <p>📞 Telefone: (61) 99986-4481</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Motoboy Rápido e Seguro. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
